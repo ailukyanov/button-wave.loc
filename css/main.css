@@ -320,10 +320,10 @@ template {
      -moz-box-sizing: border-box;
           box-sizing: border-box; }
 
+/*Styles for demonstration*/
 html, body {
   height: 100%; }
 
-/*Styles for demonstration*/
 body {
   background-color: #000; }
 
@@ -348,7 +348,7 @@ body {
       -ms-flex-align: center;
           align-items: center; }
 
-/*Basic styles*/
+/*Main styles*/
 .wave-btn {
   width: 280px;
   height: 60px;
